@@ -1,5 +1,5 @@
 # Bouncing-Shapes
-Bouncing shapes  simulator using Java swing 
+Bouncing shapes  simulator using Java swing.
 # GUI-Game
 
 ## Usage
